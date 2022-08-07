@@ -1,6 +1,6 @@
 # Demo
 
-Some description!(only change the exclaimation mark)
+Some description!(only change mark)
 
 ## Subheader
 
